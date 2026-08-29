@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@circle-fin/app-kit": "^1.12.1"
+  }
+}
